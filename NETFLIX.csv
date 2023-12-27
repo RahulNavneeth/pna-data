@@ -1,0 +1,72 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+981,Time Based Key-Value Store,53.1%,Medium,3.4546276792503927, https://leetcode.com/problems/time-based-key-value-store
+185,Department Top Three Salaries,34.5%,Hard,2.3248807273650023, https://leetcode.com/problems/department-top-three-salaries
+56,Merge Intervals,39.3%,Medium,2.9966037436022210, https://leetcode.com/problems/merge-intervals
+295,Find Median from Data Stream,44.3%,Hard,4.9620406799925645, https://leetcode.com/problems/find-median-from-data-stream
+362,Design Hit Counter,63.7%,Medium,3.5234977825709981, https://leetcode.com/problems/design-hit-counter
+34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,4.4612570287572968, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+155,Min Stack,44.5%,Easy,3.4267600843758532, https://leetcode.com/problems/min-stack
+88,Merge Sorted Array,39.4%,Easy,3.4456611848019110, https://leetcode.com/problems/merge-sorted-array
+1861,Rotating the Box,66.9%,Medium,1.0088751297759735, https://leetcode.com/problems/rotating-the-box/description/
+332,Reconstruct Itinerary, 43.4%,Hard,0.7350211364587292, https://leetcode.com/problems/reconstruct-itinerary/description/
+121,Best Time to Buy and Sell Stock,53.5%,Easy,5.3053879962568038, https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+20,Valid Parenthesis,40.3%,Easy,4.3132925810422282, https://leetcode.com/problems/valid-parentheses/description/
+15,3Sum,33.8%,Medium,4.5135483809480377, https://leetcode.com/problems/3sum/description/
+179,Largest Number,35.6%,Medium,4.2523493226447195, https://leetcode.com/problems/largest-number/description/
+1011,Capacity to Ship Packages Within D Days, 68.7%,Medium,5.7144750308994681, https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+442,Find All Duplicates in an Array,73.6%,Medium,4.2154212805694531, https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+131,Palindrome Partitioning,66.7%,Medium,0.7627641880393584, https://leetcode.com/problems/palindrome-partitioning/description/
+647,Palindromic Substrings,68.1%,Medium,5.1461852301072293, https://leetcode.com/problems/palindromic-substrings/description/
+516,Longest Palindromic Subsequence,62.3%,Medium,1.5400212287807207, https://leetcode.com/problems/longest-palindromic-subsequence/description/
+168,Excel Sheet Column Title,39.9%,Easy,2.7433380789054786, https://leetcode.com/problems/excel-sheet-column-title/description/
+171,Excel Sheet Column Number,63.2%,Easy,2.1115681419689318, https://leetcode.com/problems/excel-sheet-column-number/description/
+138,Copy List with Random Pointer,54.9%,Medium,4.7032584344937893, https://leetcode.com/problems/copy-list-with-random-pointer/description/
+143,Reorder List,55.3%,Medium,5.5915689654507617, https://leetcode.com/problems/reorder-list/description/
+114,Flatten Binary Tree to Linked List,63.9%,Medium,1.7504152011989105, https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
+148,Sort List,56.9%,Medium,3.0308660867432189, https://leetcode.com/problems/sort-list/description/
+82,Remove Duplicates from Sorted List II,46.8%,Medium,5.6508491567231243, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
+147,Insertion Sort List,52.6%,Medium,2.2258092574028376, https://leetcode.com/problems/insertion-sort-list/description/
+142,Linked List Cycle II,50.4%,Medium,5.7856494889659444, https://leetcode.com/problems/linked-list-cycle-ii/description/
+160,Intersection of Two Linked Lists,56.5%,Easy,2.6845892919169474, https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+150,Evaluate Reverse Polish Notation,48.4%,Medium,3.9734763592326696, https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+22,Generate Parenthesis,73.8%,Medium,0.5049539465577366, https://leetcode.com/problems/generate-parentheses/description/
+739,Daily Temperatures,65.9%,Medium,4.7136534673373980, https://leetcode.com/problems/daily-temperatures/description/
+1776,Car Fleet II,54.4%,Hard,3.6220133701026427, https://leetcode.com/problems/car-fleet-ii/description/
+84,Largest Rectangle in Histogram,43.8%,Hard,5.3826223509855895, https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+239,Sliding Window Maximum,46.5%,Hard,0.8085851276801831, https://leetcode.com/problems/sliding-window-maximum/description/
+801,Minimum Swaps To Make Sequences Increasing,39.7%,Hard,3.1654410501155907, https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/
+215,Kth Largest Element in an Array,66.9%,Medium,4.3091104257186963, https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+435,Non-overlapping Intervals,52.6%,Medium,2.5413300566827353, https://leetcode.com/problems/non-overlapping-intervals/description/
+1122,Relative Sort Array,68.8%,Easy,4.8420251942042620, https://leetcode.com/problems/relative-sort-array/description/
+18,4Sum,36.0%,Medium,3.3827044859937603, https://leetcode.com/problems/4sum/description/
+525,Contiguous Array,46.9%,Medium,5.7345404762793732, https://leetcode.com/problems/contiguous-array/description/
+101,Symmetric Tree,55.7%,Easy,5.6633936614905780, https://leetcode.com/problems/symmetric-tree/
+1038,Binary Search Tree to Greater Sum Tree,85.7%,Medium,5.4282977525801188, https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
+51,N-Queens,67.0%,Hard,0.6134263698173710, https://leetcode.com/problems/n-queens/description/
+42,Trapping Rain Water,60.4%,Hard,0.8459195091063273, https://leetcode.com/problems/trapping-rain-water/
+235,Lowest Common Ancestor of a Binary Search Tree,63.7%,Medium,2.6868123911538251, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+102,Binary Tree Level Order Traversal,66.3%,Medium,2.7159748562846318, https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+424,Longest Repeating Character Replacement,53.1%,Medium,3.3163876286163303, https://leetcode.com/problems/longest-repeating-character-replacement/description/
+1448,Count Good Nodes in Binary Tree,73.3%,Medium,5.4346261661793420, https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+98,Validate Binary Search Tree,32.6%,Medium,2.4368406894663259, https://leetcode.com/problems/validate-binary-search-tree/description/
+230,Kth Smallest Element in a BST,71.8%,Meium,5.3200389216513591, https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+105,Construct Binary Tree from Preorder and Inorder Traversal,63.1%,Medium,4.4181099844772627, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+124,Binary Tree Maximum Path Sum, 39.8%,Hard,4.1348831036017257, https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+297,Serialize and Deserialize Binary Tree,56.2%,Hard,3.0181554893348550, https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
+200,Number of Islands,58.2%,Medium,4.5042594911803890, https://leetcode.com/problems/number-of-islands/description/
+733,Flood Fill,63.4%,Easy,5.9647215073190472, https://leetcode.com/problems/flood-fill/description/
+785,Is Graph Bipartite?,55.2%,Medium,4.0117517673302876, https://leetcode.com/problems/is-graph-bipartite/description/
+743,Network Delay Time,53.2%,Medium,5.5079133357787713, https://leetcode.com/problems/network-delay-time/description/
+547,Number of Provinces,65.7%,Medium,4.8459704820104266, https://leetcode.com/problems/number-of-provinces/description/
+139,Word Break,46.4%,Medium,5.3711511094886673, https://leetcode.com/problems/word-break/description/
+494,Target Sum,46.3%,Medium,4.0831525987586383, https://leetcode.com/problems/target-sum/description/
+322,Coin Change,43.3%,Medium,2.9248443997729141, https://leetcode.com/problems/coin-change/description/
+39,Combination Sum,70.5%,Medium,5.8707358871359023, https://leetcode.com/problems/combination-sum/description/
+300,Longest Increasing Subsequence,53.8%,Medium,0.9545554343171498, https://leetcode.com/problems/longest-increasing-subsequence/description/
+45,Jump Game II,40.2%,Medium,4.8998008513328131, https://leetcode.com/problems/jump-game-ii/description/
+185,Department Top Three Salaries,51.5%,Hard,0.9498603986958327, https://leetcode.com/problems/department-top-three-salaries/description/
+146,LRU Cache,41.9%,Medium,2.1718293691718529, https://leetcode.com/problems/lru-cache/description/
+56,Merge Intervals,46.8%,Medium,5.2209255464180657, https://leetcode.com/problems/merge-intervals/description/
+295,Find Median from Data Stream,51.7%,Hard,5.6882348912181886, https://leetcode.com/problems/find-median-from-data-stream/description/
+3,Longest Substring Without Repeating Characters,34.3%,Medium,2.6130843233960377, https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+76,Minimum Window Substring,41.6%,Hard,5.6031065250107117, https://leetcode.com/problems/minimum-window-substring/description/
