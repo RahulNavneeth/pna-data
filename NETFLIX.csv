@@ -69,4 +69,36 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 56,Merge Intervals,46.8%,Medium,5.2209255464180657, https://leetcode.com/problems/merge-intervals/description/
 295,Find Median from Data Stream,51.7%,Hard,5.6882348912181886, https://leetcode.com/problems/find-median-from-data-stream/description/
 3,Longest Substring Without Repeating Characters,34.3%,Medium,2.6130843233960377, https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-76,Minimum Window Substring,41.6%,Hard,5.6031065250107117, https://leetcode.com/problems/minimum-window-substring/description/
+41,First Missing Positive,37.5%,Hard,4.0106124012071336, https://leetcode.com/problems/first-missing-positive/description/
+741,Cherry Pickup,33.9%,Hard,1.4706899424089495, https://leetcode.com/problems/cherry-pickup
+380,Insert Delete GetRandom O(1),47.5%,Medium,0.5985510621029109, https://leetcode.com/problems/insert-delete-getrandom-o1
+269,Alien Dictionary,33.3%,Hard,4.997917057465883, https://leetcode.com/problems/alien-dictionary
+10,Regular Expression Matching,26.8%,Hard,2.0844130559772196, https://leetcode.com/problems/regular-expression-matching
+994,Rotting Oranges,49.2%,Medium,3.007630712341163886, https://leetcode.com/problems/rotting-oranges
+967,Numbers With Same Consecutive Differences,39.4%,Medium,3.53232328576101, https://leetcode.com/problems/numbers-with-same-consecutive-differences
+982,Triples with Bitwise AND Equal To Zero,55.6%,Hard,2.294837284711328, https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero
+1423,Maximum Points You Can Obtain from Cards,42.6%,Medium,4.217671673081112, https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+238,Product of Array Except Self,60.1%,Medium,3.514882900018146, https://leetcode.com/problems/product-of-array-except-self
+212,Word Search II,34.9%,Hard,3.4837901561793956, https://leetcode.com/problems/word-search-ii
+12,Integer to Roman,55.1%,Medium,3.4609849174972926, https://leetcode.com/problems/integer-to-roman
+33,Search in Rotated Sorted Array,34.5%,Medium,3.3666485807729396, https://leetcode.com/problems/search-in-rotated-sorted-array
+675,Cut Off Trees for Golf Event,34.6%,Hard,3.36225540086527, https://leetcode.com/problems/cut-off-trees-for-golf-event
+588,Design In-Memory File System,45.9%,Hard,3.360532016478895, https://leetcode.com/problems/design-in-memory-file-system
+909,Snakes and Ladders,38.4%,Medium,3.343741372618161, https://leetcode.com/problems/snakes-and-ladders
+165,Compare Version Numbers,27.4%,Medium,3.2759201587167275, https://leetcode.com/problems/compare-version-numbers
+53,Maximum Subarray,46.5%,Easy,3.2518398869431175, https://leetcode.com/problems/maximum-subarray
+49,Group Anagrams,56.9%,Medium,3.2464298158187788, https://leetcode.com/problems/group-anagrams
+545,Boundary of Binary Tree,38.9%,Medium,3.2370535533630154, https://leetcode.com/problems/boundary-of-binary-tree
+11,Container With Most Water,50.8%,Medium,3.1775832534023336, https://leetcode.com/problems/container-with-most-water
+76,Minimum Window Substring,34.6%,Hard,3.1730470473640895, https://leetcode.com/problems/minimum-window-substring
+54,Spiral Matrix,34.1%,Medium,3.1133021060526898, https://leetcode.com/problems/spiral-matrix
+388,Longest Absolute File Path,41.8%,Medium,5.913085890375435, https://leetcode.com/problems/longest-absolute-file-path
+683,K Empty Slots,35.6%,Hard,5.780765145104477, https://leetcode.com/problems/k-empty-slots
+681,Next Closest Time,45.0%,Medium,5.648444399833518, https://leetcode.com/problems/next-closest-time
+929,Unique Email Addresses,67.4%,Easy,5.641251480795916, https://leetcode.com/problems/unique-email-addresses
+904,Fruit Into Baskets,42.5%,Medium,5.622005350773675, https://leetcode.com/problems/fruit-into-baskets
+482,License Key Formatting,43.1%,Easy,5.489684605502716, https://leetcode.com/problems/license-key-formatting
+308,Range Sum Query 2D - Mutable,35.6%,Hard,5.479895265007681, https://leetcode.com/problems/range-sum-query-2d-mutable
+1007,Minimum Domino Rotations For Equal Row,50.0%,Medium,5.347574519736722, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
+843,Guess the Word,46.1%,Hard,5.215253774465763, https://leetcode.com/problems/guess-the-word
+288,Unique Word Abbreviation,21.9%,Medium,5.0829330291948045, https://leetcode.com/problems/unique-word-abbreviation
