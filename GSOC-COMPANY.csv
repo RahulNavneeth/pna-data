@@ -1,0 +1,17 @@
+ID,NAME,NO.OF ACCEPTED PROJECTS(2023),DIFFICULTY,MAX CONSECUTIVE ACCEPTANCE,STACK,LINK
+1,ROCKETCHAT,10,MEDIUM,3,TS/JS,https://github.com/rocketchat
+2,LIBREOFFICE,5,HARD,3,PY/C++/JAVA,https://www.libreoffice.org/
+3,CHROMIUM,17,MEDIUM,3,JS/C++/PY,https://www.chromium.org/chromium-projects/
+4,BLENDER,5,HARD,3,C++/PY/OPENGL,https://www.blender.org/
+5,GIT,2,HARD,1,C/GIT/SHELL,https://git-scm.com/
+6,GITLAB,3,MEDIUM,2,RUBY/GO/DEVOPS/JS,https://about.gitlab.com/
+7,JENKINS,4,MEDIUM,1,JAVA/HTML/ML/DOCKER,https://www.jenkins.io/
+8,LLVM,20,HARD,3,C/C++/CLANG/LLVM,https://www.llvm.org/
+9,MARIADB,5,MEDIUM,2,C/JAVA/DBMS/JS/PY/MARIADB,https://mariadb.org/
+10,OPENSTREET MAPS,4,MEDIUM,1,C++/OPENGL/POSTGRESQL/PY,https://mariadb.org/
+11,POSTGRE SQL,12,HARD,2,C/RDBMS/JULIA/POSTGRESQL/PY/JS,https://www.postgresql.org/
+12,VLC,10,HARD,2,C/OPENGL/AUDIO-VIDEO CODECS/ML/ASM,https://www.videolan.org/
+13,ZULIP,13,MEDIUM,3,PY/DJANGO/TS/IOS/JS/REACT-NATIVE,https://zulip.com/
+14,KDE,7,HARD,3,C++/QT/CMAKE/PHP/DS/OPENQL,https://kde.org/
+15,INKSCAPE,2,HARD,1,C++/PY/CSS/SVG,https://inkscape.org/
+16,CIRCUITVERSE,4,MEDIUM,2,RAILS/HTML5CANVAS/JS/POSTGRESQL/ML,https://circuitverse.org/
